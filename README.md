@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+Hello World.
+I enjoy writing php code and creating new web apps. It is more of a hobby as I am a CNC Mechnical Engineer.
+
 You can use the [editor on GitHub](https://github.com/barretoan/TestVM/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
